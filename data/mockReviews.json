@@ -1,0 +1,146 @@
+[
+  {
+    "id": 7453,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Shane and family are wonderful! Would definitely host again :)",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "respect_house_rules", "rating": 10 }
+    ],
+    "submittedAt": "2025-08-21 22:45:14",
+    "guestName": "Shane Finkelstein",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "channel": "Web"
+  },
+  {
+    "id": 7454,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Great experience, the apartment was as described.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 9 },
+      { "category": "communication", "rating": 9 },
+      { "category": "respect_house_rules", "rating": 8 }
+    ],
+    "submittedAt": "2025-09-24 14:30:00",
+    "guestName": "Alice Johnson",
+    "listingName": "1A N2 C - 17 Elm Road",
+    "channel": "Mobile"
+  },
+  {
+    "id": 7455,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Amazing stay, highly recommend this place!",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "respect_house_rules", "rating": 9 }
+    ],
+    "submittedAt": "2025-08-23 11:15:00",
+    "guestName": "John Doe",
+    "listingName": "3B N1 B - 15 High Street",
+    "channel": "Web"
+  },
+  {
+    "id": 7456,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "The house was beautiful, but the location was a bit noisy.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 7 },
+      { "category": "respect_house_rules", "rating": 8 }
+    ],
+    "submittedAt": "2025-09-24 17:50:00",
+    "guestName": "Emily White",
+    "listingName": "3B N1 B - 15 High Street",
+    "channel": "Mobile"
+  },
+  {
+    "id": 7457,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "It was a good stay, but the heating system needs work.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 7 },
+      { "category": "communication", "rating": 8 },
+      { "category": "respect_house_rules", "rating": 9 }
+    ],
+    "submittedAt": "2025-08-25 13:25:00",
+    "guestName": "Sophia Lee",
+    "listingName": "3B N1 B - 15 High Street",
+    "channel": "Web"
+  },
+  {
+    "id": 7458,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Great host, great experience. Would book again!",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "respect_house_rules", "rating": 10 }
+    ],
+    "submittedAt": "2025-09-21 08:45:00",
+    "guestName": "David Miller",
+    "listingName": "1A N2 C - 17 Elm Road",
+    "channel": "Web"
+  },
+  {
+    "id": 7459,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Location was perfect, but the apartment was a bit small for my group.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 8 },
+      { "category": "respect_house_rules", "rating": 7 }
+    ],
+    "submittedAt": "2025-09-17 12:30:00",
+    "guestName": "Michael Brown",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "channel": "Mobile"
+  },
+  {
+    "id": 7460,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Fantastic value for money, we had an amazing time.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 9 },
+      { "category": "respect_house_rules", "rating": 10 }
+    ],
+    "submittedAt": "2025-09-20 18:00:00",
+    "guestName": "Isabella Harris",
+    "listingName": "1A N2 C - 17 Elm Road",
+    "channel": "Web"
+  },
+  {
+    "id": 7461,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "The house was nice, but not much to do around the area.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 7 },
+      { "category": "respect_house_rules", "rating": 8 }
+    ],
+    "submittedAt": "2025-09-24 10:10:00",
+    "guestName": "James Clark",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "channel": "Mobile"
+  }
+]
